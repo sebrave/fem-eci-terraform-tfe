@@ -1,4 +1,4 @@
-remotes {
+locals {
   project = {
     "fem-eci-project" = {
       description = "Example description"
